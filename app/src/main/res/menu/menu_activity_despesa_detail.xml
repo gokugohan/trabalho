@@ -1,0 +1,9 @@
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.projeto.helder.projetoaplicado.activities.ActivityDespesaDetail">
+  <!--  <item
+        android:id="@+id/action_delete"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_cross"
+        android:title="@string/delete"
+        app:showAsAction="always" />-->
+</menu>

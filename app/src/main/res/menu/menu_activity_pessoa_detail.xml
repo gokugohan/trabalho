@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.projeto.helder.projetoaplicado.activities.ActivityPessoaDetail">
+    <item
+        android:id="@+id/id_menu_telefonar"
+        android:icon="@drawable/skype"
+        android:orderInCategory="100"
+        android:title="Telefonar"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/id_menu_enviar_email"
+        android:icon="@drawable/mail"
+        android:orderInCategory="100"
+        android:title="Enviar email"
+        app:showAsAction="always" />
+</menu>

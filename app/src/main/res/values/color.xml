@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight">#BBDEFB</color>
+    <color name="colorAccent">#448AFF</color>
+    <color name="colorHighlight">#B6B6B6</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#727272</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_black">#000000</color>
+    <!--
+    	FLAT UI COLORS
+    	http://flatuicolors.com/
+
+
+    -->
+
+    <color name="color_flat_clouds">#ecf0f1</color>
+    <color name="color_flat_turquoise">#1abc9c</color>
+    <color name="color_flat_emerald">#2ecc71</color>
+    <color name="color_flat_peter_river">#3498db</color>
+    <color name="color_flat_amethyst">#9b59b6</color>
+    <color name="color_flat_west_asphalt">#34495e</color>
+    <color name="color_flat_green_sea">#16a085</color>
+    <color name="color_flat_nephritis">#27ae60</color>
+    <color name="color_flat_wisteria">#8e44ad</color>
+    <color name="color_flat_midnight_blue">#2c3e50</color>
+    <color name="color_flat_sun_flower">#f1c40f</color>
+    <color name="color_flat_carrot">#e67e22</color>
+    <color name="color_flat_alizarin">#e74c3c</color>
+    <color name="color_flat_concrete">#95a5a6</color>
+    <color name="color_flat_orange">#f39c12</color>
+    <color name="color_flat_pumpkin">#d35400</color>
+    <color name="color_flat_pome_granate">#c0392b</color>
+    <color name="color_flat_silver">#bdc3c7</color>
+    <color name="color_flat_asbestos">#7f8c8d</color>
+</resources>

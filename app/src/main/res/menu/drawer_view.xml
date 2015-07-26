@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_dashboard"
+            android:title="@string/home" />
+
+        <item android:title="@string/menu_operacoes">
+            <menu>
+                <item android:title="@string/menu_recolha_despesa"
+                    android:id="@+id/nav_recolha_despesa"
+                    android:icon="@drawable/ic_dashboard"/>
+                <item android:id="@+id/nav_consultar_despesa"
+                    android:title="@string/menu_consultar_despesa"
+                    android:icon="@drawable/ic_dashboard"
+                    />
+                <item android:id="@+id/nav_alterar_despesa"
+                    android:title="@string/edit"
+                    android:icon="@drawable/ic_dashboard"
+                    />
+            </menu>
+        </item>
+
+        <item android:title="@string/acerto_de_contas">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/nav_simular"
+                        android:icon="@drawable/ic_dashboard"
+                        android:title="@string/app_name_simular_contas" />
+                    <item
+                        android:id="@+id/nav_fechar_contas"
+                        android:icon="@drawable/ic_dashboard"
+                        android:title="@string/app_name_fechar_contas" />
+                </group>
+
+            </menu>
+        </item>
+    </group>
+
+
+
+
+</menu>
